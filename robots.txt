@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://rseakelieg.github.io/sitemap.html.gz
+Sitemap: https://rseakelieg.github.io/app/sitemap.html.gz
+Sitemap: https://rseakelieg.github.io/assets/sitemap.html.gz
+Sitemap: https://rseakelieg.github.io/css/sitemap.html.gz
+Sitemap: https://rseakelieg.github.io/includes/sitemap.html.gz
+Sitemap: https://rseakelieg.github.io/item/sitemap.html.gz
+Sitemap: https://rseakelieg.github.io/src/sitemap.html.gz
